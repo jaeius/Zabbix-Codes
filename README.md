@@ -13,3 +13,9 @@ Installation:
 3. Upload to include/ folder the tr_email_ack.inc.php
 
 Zabbix related modifications and scripts
+
+
+####
+#  in response to use case posted on ZAabbix forum:
+#  https://www.zabbix.com/forum/zabbix-troubleshooting-and-problems/21004-actions-event-acknowledged-ack/page2
+####
